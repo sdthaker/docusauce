@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusauce=self.webpackChunkdocusauce||[]).push([[9572],{524:e=>{e.exports=JSON.parse('{"permalink":"/docusauce/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
